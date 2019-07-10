@@ -1,0 +1,6 @@
+D:\PDM\PDMGoalsApp\PDMGoalsApp.IdentityServer\bin\Debug\netstandard2.0\PDMGoalsApp.IdentityServer.deps.json
+D:\PDM\PDMGoalsApp\PDMGoalsApp.IdentityServer\bin\Debug\netstandard2.0\PDMGoalsApp.IdentityServer.dll
+D:\PDM\PDMGoalsApp\PDMGoalsApp.IdentityServer\obj\Debug\netstandard2.0\PDMGoalsApp.IdentityServer.csprojAssemblyReference.cache
+D:\PDM\PDMGoalsApp\PDMGoalsApp.IdentityServer\obj\Debug\netstandard2.0\PDMGoalsApp.IdentityServer.csproj.CoreCompileInputs.cache
+D:\PDM\PDMGoalsApp\PDMGoalsApp.IdentityServer\obj\Debug\netstandard2.0\PDMGoalsApp.IdentityServer.AssemblyInfoInputs.cache
+D:\PDM\PDMGoalsApp\PDMGoalsApp.IdentityServer\obj\Debug\netstandard2.0\PDMGoalsApp.IdentityServer.AssemblyInfo.cs
